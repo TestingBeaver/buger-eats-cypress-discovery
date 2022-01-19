@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Fernando Papito",
+        "cpf": "00000014141",
+        "email": "papito@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "41810480",
+            "street": "Rua Artur de Sá Menezes",
+            "number": "000376",
+            "details": "apto 142",
+            "district": "Pituba",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "000000141AA",
+        "email": "joao@lucas.com",
+        "whatsapp": "11999988888",
+        "address": {
+            "postalcode": "41810480",
+            "street": "Rua Artur de Sá Menezes",
+            "number": "000376",
+            "details": "apto 142",
+            "district": "Pituba",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Fernando Papito",
+        "cpf": "00000014141",
+        "email": "papito.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "41810480",
+            "street": "Rua Artur de Sá Menezes",
+            "number": "000376",
+            "details": "apto 142",
+            "district": "Pituba",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
